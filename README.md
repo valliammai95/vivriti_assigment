@@ -6,7 +6,7 @@
   * Note: The driver is placed inside the VivTest\BrowserDriver folder
   
 ## To Run
-Right Click the \VivTest\src\main\java\main\driver.java file and select 'Run as' -> 'Java Application'using eclipse ide.
+Right Click the \VivTest\src\main\java\main\driver.java file and select 'Run as' -> 'Java Application' using eclipse ide.
 
 ## On Completion
 

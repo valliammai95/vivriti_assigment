@@ -1,0 +1,40 @@
+{
+	"City": "chennai",
+	"Questions": [
+		{
+			"type": "checkbox",
+			"Question": "The problems are to do with which of the following things?",
+			"Answer": "Tap"
+		},
+		{
+			"type": "checkbox",
+			"Question": "What do you need done?",
+			"Answer": "Repair"
+		},
+		{
+			"type": "checkbox",
+			"Question": "What problem(s) do you have?",
+			"Answer": "Leak in a pipe"
+		},
+		{
+			"type": "textarea",
+			"Question": "Is there anything else that the Plumber needs to know?",
+			"Answer": "nothing"
+		},
+		{
+			"type": "radiobutton",
+			"Question": "When do you require plumbing?",
+			"Answer": "On a specific date"
+		},
+		{
+			"type": "calendar",
+			"Question": "On what date?",
+			"Answer": ""
+		},
+		{
+			"type": "dropdown",
+			"Question": "What time do you need the Plumber?",
+			"Answer": "02:00"
+		}
+	]
+}
